@@ -1,5 +1,6 @@
 freem's personal TODO list:
 * Allow scripting to use Lua as well as Python (if possible)
+* re-add SQLite support as an option (instead of MySQL just replacing it outright)
 
 * Find out differences between forks
 [differs between mainline and OpenSMO_smo.net]
