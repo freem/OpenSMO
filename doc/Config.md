@@ -119,7 +119,7 @@ Default from example Config.ini is true.
 
 `Game_ShadowBan` (bool)
 ---------------------
-If true, (??).
+If true, allows shadow bans. (user is not notified that they are banned?)
 Default from example Config.ini is true.
 
 `Game_AntiCheat` (bool)
